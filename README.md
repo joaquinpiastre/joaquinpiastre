@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joaquin Piastrellini</h1>
 <h3 align="center">A Computer Engineering Student at Universidad de Mendoza</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joacopiastre&show_icons=true&locale=en" alt="joaquinpiastre" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquinpiastre&show_icons=true&locale=en" alt="joaquinpiastre" /></p>
 
 - 🔭 I’m currently working on **Data Analytics & Data Entry**
 
